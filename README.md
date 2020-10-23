@@ -1,1 +1,1 @@
-# Destination-address-assignment-project
+The collected dataset includes statist of the number of COVID-19 infected people, the condensation of aerosol and gas in the critical season (February 20-March 19) in Tehran and Isfahan. The modified datasets consist of aerosol (PM2.5) condensation in seven days ago to one days before (February 5-March 18) COVID-19 outbreak and daily statistics of the number of CIP in February 20-March 19 in Tehran.
